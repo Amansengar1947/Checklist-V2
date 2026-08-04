@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+ssh-key-*.key
+*.key
+backend/data/*.json
